@@ -15,3 +15,11 @@
     height: 100vh;
     background-repeat: no-repeat;
 }
+
+.box{
+    box-shadow: 0px 0px 40px #3F87F5;
+}
+
+.hot{
+    margin-top: -10px;
+}
